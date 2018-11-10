@@ -12,7 +12,3 @@ Pseudocode:
 8. The new button gets added to the array and loops through.
 9. By clicking the newly added button from the user also brings down 10 giphs from the server as others already populated buttons from my array, and reponds the same (When clicking on the image, it moves, clicking back makes the image stop and again clicking back the image will make it move again)
 
-FoodSearch API Key
-okiUz5KQLLwQVcyTZj01NGdlR7AapOx6
-
-http://api.giphy.com/v1/gifs/search?q=food&api_key=okiUz5KQLLwQVcyTZj01NGdlR7AapOx6
